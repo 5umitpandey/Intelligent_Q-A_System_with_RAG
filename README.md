@@ -1,4 +1,4 @@
-# Intelligent Q&A System With RAG
+# Secure \& Intelligent Q\&A System (RAG + LLM)
 
 Local RAG pipeline:
 
