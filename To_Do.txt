@@ -1,0 +1,3 @@
+1. Update the page number in pre-processing (pages_and_texts.append({"page_number": page_number - 41,  # adjust page numbers since our PDF starts on page 42), so that it works on all the documents.
+2. Add a convert_to_pdf so that we can work with emails and other file formats.
+3. Use a better model than 7b when better resources arrive.
