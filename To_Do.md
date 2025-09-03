@@ -6,14 +6,14 @@
 5. Use Vector database for embedding.
 
 **Topics & Tech to study:**
-Embedding & Transformers
-SBERT.net
-all-mpnet-base-v2 (checkout [inference API](huggingface.co/sentence-transformers/all-mpnet-base-v2)
-NLTK, spaCy
-Nearest Neighbor Search
-Dot product vs Cosine similarity
-Temperature in LLM
-Text sampling
+- Embedding & Transformers
+- SBERT.net
+- all-mpnet-base-v2 (checkout [inference API](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
+- NLTK, spaCy
+- Nearest Neighbor Search
+- Dot product vs Cosine similarity
+- Temperature in LLM
+- Text sampling
 
 **Notes:**
-Used Regix to solve the : Sentence starting immediately after full stop problem.
+- Used Regix to solve the : Sentence starting immediately after full stop problem.
