@@ -116,13 +116,13 @@ Production VLM Pipeline:
 
 ✅ Solution: Include ±2 paragraphs of surrounding text for context
 
-𝟰️. 𝗖𝗼𝗹𝗣𝗮𝗹𝗶 - 𝗧𝗵𝗲 𝟮𝟬𝟮𝟰 𝗚𝗮𝗺𝗲 𝗖𝗵𝗮𝗻𝗴𝗲𝗿 🚀
+𝟰️. 𝗖𝗼𝗹𝗣𝗮𝗹𝗶 - 𝗧𝗵𝗲 𝟮𝟬𝟮𝟰 𝗚𝗮𝗺𝗲 𝗖𝗵𝗮𝗻𝗴𝗲𝗿:
 Traditional RAG: Text extraction → Chunking → Embedding
 ColPali: Skip all that. Embed document images DIRECTLY.
 How it works:
-📸 Input: Raw page images (no text extraction!)
-🧠 Model: PaliGemma (Vision encoder + Language decoder)
-🎯 Output: Multi-vector representation (~1024 vectors/page)
+Input: Raw page images (no text extraction!)
+Model: PaliGemma (Vision encoder + Language decoder)
+Output: Multi-vector representation (~1024 vectors/page)
 
 𝟱️. 𝗖𝗵𝘂𝗻𝗸𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝘆 - 𝗧𝗵𝗲 𝗠𝗮𝗸𝗲-𝗼𝗿-𝗕𝗿𝗲𝗮𝗸 𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻
 Question that defines your seniority:
