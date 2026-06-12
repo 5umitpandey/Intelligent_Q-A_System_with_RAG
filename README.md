@@ -91,7 +91,7 @@ This breaks catastrophically because:
 🖼️ Images contain critical information = lost
 📄 Layout destroyed = broken context
 
-🏗️ 𝗧𝗵𝗲 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 (𝟱 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)
+T𝗵𝗲 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 (𝟱 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)
 1. 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁 𝗟𝗮𝘆𝗼𝘂𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 - 𝗧𝗵𝗲 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻
 The brutal truth about PDF parsing:
 
